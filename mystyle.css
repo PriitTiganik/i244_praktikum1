@@ -1,0 +1,22 @@
+body {
+    background-color: lightgrey;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color:green;
+    margin-left:20px;
+}
+p.normal{
+    color:black;
+    margin-left:0px;
+
+}
+p2{
+    color:black;
+    margin-left:0px;
+
+}
